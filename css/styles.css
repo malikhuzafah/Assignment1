@@ -441,3 +441,14 @@ a {
 a:hover {
   color: #F9ECB8;
 }
+
+.project {
+  width: 20%;
+  float: left;
+}
+
+.certificate {
+  width: 33%;
+  height: 270px;
+  float: left;
+}
